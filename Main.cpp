@@ -1,1 +1,5 @@
-int pouet = 2;
+void main()
+{
+    int pouet = 2;
+    int Pierre = "Moche";
+}
